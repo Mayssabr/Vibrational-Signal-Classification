@@ -2,9 +2,9 @@
 This project is centered around two key objectives: dimensionality reduction and vibration data classification. We employ both autoencoder and variational autoencoder techniques to reduce dimensionality. Subsequently, the extracted low-dimensional representations are employed for classification, with available options including SVM, Neural Network, and Logistic Regression.
 
 ## Table of Contents
-1. [Autoencoder Architecture](#Autoencoder Architecture)
-2. [Training the Autoencoder](#Training the Autoencoder)
-3. [Reconstruction and Evaluation](#Reconstruction and Evaluation)
+1. [Autoencoder Architecture]
+2. [Training the Autoencoder]
+3. [Reconstruction and Evaluation]
 
 
 
